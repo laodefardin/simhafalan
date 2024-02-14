@@ -85,9 +85,9 @@ else{
                     <strong>Sistem Informasi Manajemen (SIM) </strong>
                         <br>
                         <b style="
-    font-size: 48px;
+    font-size: 59px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-"> HAFALAN AL-QURAN</b>
+"> Hafalan Al-Quran</b>
                     </div>
                     <div class="-intro-x mt-5 text-lg text-white text-opacity-70 dark:text-slate-400" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">"Memudahkan
                         Pengorganisasian dan Pemantauan Progress Hafalan"</div>

@@ -91,7 +91,7 @@
             <div class="h-full flex items-center">
                 <!-- BEGIN: Logo -->
                 <a href="" class="-intro-x hidden md:flex">
-                    <img class="w-6" src="../assets/img/favicon.png">
+                    <img class="w-6" src="../assets/dist/images/logo.svg">
                     <span class="text-white text-lg ml-3"> SIM Hafalan Al-Quran</span>
                 </a>
                 <!-- END: Logo -->
